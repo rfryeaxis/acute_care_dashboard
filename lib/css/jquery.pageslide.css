@@ -1,0 +1,39 @@
+#pageslide {
+    background-color: lightgrey;
+    border-right: 13px solid grey;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.08);
+    color: grey;
+    height: 100%;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    width: 1146px;
+    z-index: 9999999999999999999;
+	left:-1200px;
+}
+#pageslide2 {
+    background-color: lightgrey;
+    border-right: 13px solid grey;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.08);
+    color: grey;
+    height: 100%;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    width: 1146px;
+    z-index: 9999999999999999999;
+	left:-1200px;
+}
+#pageslide3 {
+    background-color: lightgrey;
+    border-right: 13px solid grey;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.08);
+    color: grey;
+    height: 100%;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    width: 1146px;
+    z-index: 999999;
+	left:-1200px;
+}
